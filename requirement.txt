@@ -1,0 +1,6 @@
+Ini harus ada
+
+Iteration 1 
+    - Login form
+    - Simpan token di JWT token
+    - CRUD TodoList
